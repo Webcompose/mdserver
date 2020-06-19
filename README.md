@@ -1,3 +1,6 @@
+This set of code has some of the code needed to process markdown files 
+to html using Javascript.
+
 Command mdserver is an http server serving directory (recursively) with
 markdown (.md) files. If can render automatically built index of those files
 and render them as html pages.
